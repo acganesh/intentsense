@@ -7,7 +7,7 @@ Data Visualization
 `/Arduino/` Code to read, analyze, and visualize data from the IntentSense glove through the serial port.  The Z-Score Distance algorithm classifies the use-pattern in real time.
 
 
-Classification Algorithms
+Use-Pattern Classification Algorithms
 -----------
 
 `/MATLAB_Algorithms/` To simulate digit amputations and use-pattern detection, algorithms are implemented in MATLAB.  
