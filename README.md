@@ -4,7 +4,7 @@ Intent-Sense
 Data Visualization
 -----------
 
-`/Arduino/` Code to read, analyze, and visualize data from the IntentSense glove through the serial port.  The Z-Score distance algorithm classifies the use-pattern in real time.
+`/Arduino/` Code to read, analyze, and visualize data from the IntentSense glove through the serial port.  The Z-Score Distance algorithm classifies the use-pattern in real time.
 
 
 Simulation Algorithms
