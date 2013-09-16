@@ -21,5 +21,7 @@ Algorithms included:
 5. Naive Bayes Classifer
 6. Z-Score Distance 
 
-
-
+License
+-----------
+This code is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license.
+Here's a [summary]{http://creativecommons.org/licenses/by-nc-sa/3.0/} and the full [legal code]{http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode}.
